@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import { GifEexpertApp } from './components/GifEexpertApp';
+import { GifEexpertApp } from './GifEexpertApp';
 
 ReactDOM.render(
     <GifEexpertApp />,
